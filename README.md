@@ -5,7 +5,6 @@ Python学习笔记(21)
 t=('Python','hello',98)
 print(t)
 print(type(t))
-
 t2='Python','world',98  #这样也是可以的
 #当包含一个元组的元素，需要使用逗号和小括号
 t=(10,)
